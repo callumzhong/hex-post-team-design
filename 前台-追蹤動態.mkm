@@ -1,5 +1,7 @@
 <MKM version="2.0" imageFileUrl="file:///E:/Albert/Documents/Code/callumzhong/meta-draw/%e5%89%8d%e5%8f%b0-%e8%bf%bd%e8%b9%a4%e5%8b%95%e6%85%8b.png">
   <Marks>
-    <TextMark defaultDirection="9" direction="9" color="16711680" x="182" y="88" textMaxWidth="100" offsetX="25" offsetY="10" text="C0001"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="182" y="88" textMaxWidth="100" offsetX="25" offsetY="10" text="A03001"/>
+    <TextMark defaultDirection="9" direction="9" color="16711680" x="482" y="136" textMaxWidth="100" offsetX="25" offsetY="10" text="A03002"/>
+    <TextMark defaultDirection="5" direction="5" color="16711680" x="616" y="136" textMaxWidth="122" offsetX="45" offsetY="45" text="A03003 || A03004"/>
   </Marks>
 </MKM>
